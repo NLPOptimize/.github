@@ -12,7 +12,7 @@ NLPOptimize is dedicated to developing and optimizing libraries for natural lang
 
 ## Key Projects
 
-- **[FlashTokenizer](https://github.com/NLPOptimize/FlashTokenizer)**: *The world's fastest CPU tokenizer library!*
+- **[FlashTokenizer](https://github.com/NLPOptimize/flash-tokenizer)**: *The world's fastest CPU tokenizer library!*
 
 ## How to Contribute
 
